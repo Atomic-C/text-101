@@ -880,11 +880,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Welcome to the paradox game, a place where you will make questionable
-    decisions while keeping your head intact.
-
-
-    Do you accept the challenge?'
+  m_Text: Loren Ipsum.
 --- !u!222 &1364927348
 CanvasRenderer:
   m_ObjectHideFlags: 0
