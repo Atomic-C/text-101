@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
   m_Name: Paradox 2
   m_EditorClassIdentifier: 
-  storyText: Paradox 2 placeholder.
-  nextState:
-  - {fileID: 11400000, guid: 87602ac2e3818834c9250dbafe589585, type: 2}
-  - {fileID: 11400000, guid: 81cd621e183ea8748aedc5ea0a3d159a, type: 2}
+  storyText: 'What happens if Pinocchio says "my nose will now grow."?
+
+
+    1. Nothing
+    happens.
+
+    2. It grows and gets back to the same size right after.'
+  nextStates: []

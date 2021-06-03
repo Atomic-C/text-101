@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
   m_Name: Paradox 1
   m_EditorClassIdentifier: 
-  storyText: Does waiting for a waiter, make you a waiter?
-  nextState:
+  storyText: 'Does waiting for a waiter, make you a waiter?
+
+
+    1. Yes it does!
+
+    2.
+    No.'
+  nextStates:
   - {fileID: 11400000, guid: 82a0e6a6cc6a6d74baf9150262319a05, type: 2}
-  - {fileID: 11400000, guid: 81cd621e183ea8748aedc5ea0a3d159a, type: 2}
