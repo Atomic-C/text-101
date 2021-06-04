@@ -10,7 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: A 12
+  m_Name: A12. Child molester Pararox
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Life''s manager actually has his own problems too, and he asks you:
+
+    If
+    an illegal immigrant fought a child molester, would it be Alien vs. Predator?
+
+    
+
+    1.Yes.
+
+    2.No,
+    please just end this already'
+  nextStates:
+  - {fileID: 11400000, guid: 9de3ec28360a3fc47bdd0471bec45763, type: 2}
+  - {fileID: 11400000, guid: 315fafade65dc7c4f86517bdbef51fad, type: 2}

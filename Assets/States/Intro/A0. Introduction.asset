@@ -27,3 +27,4 @@ MonoBehaviour:
     any point in time press "q" to quit game.'
   nextStates:
   - {fileID: 11400000, guid: 81cd621e183ea8748aedc5ea0a3d159a, type: 2}
+  - {fileID: 0}

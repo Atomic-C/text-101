@@ -10,7 +10,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: A 7
+  m_Name: A7. The uniqueness Paradox
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Congratulations, you are now a professional Dolphin Shaver!
+
+    Ever
+    noticed a hairy Dolphin?
+
+    That''s right, means you''re doing your job just
+    fine.
+
+    
+
+    You ask yourself:
+
+    
+
+    If we''re all different, doesn''t
+    that mean we''re all the same?
+
+    
+
+    1.Yes.
+
+    2.Jump out the window.'
+  nextStates:
+  - {fileID: 11400000, guid: 82a0e6a6cc6a6d74baf9150262319a05, type: 2}
+  - {fileID: 11400000, guid: 9d8b01933084f8c4b9efb8ab8bd224e2, type: 2}

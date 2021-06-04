@@ -28,4 +28,6 @@ MonoBehaviour:
     (End game.)
 
     2.Fuck this I''m no waiter.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 7fd1801e7a431544086b2aed544a4a97, type: 2}
+  - {fileID: 11400000, guid: 9de3ec28360a3fc47bdd0471bec45763, type: 2}

@@ -26,4 +26,6 @@ MonoBehaviour:
 
     2.Fuck
     this I need help.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 82a0e6a6cc6a6d74baf9150262319a05, type: 2}
+  - {fileID: 11400000, guid: 7f0a703be53489e42924285a0dc9b884, type: 2}

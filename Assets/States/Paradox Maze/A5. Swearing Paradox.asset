@@ -25,4 +25,6 @@ MonoBehaviour:
     manager and ask for help.
 
     2.Run away and get some food.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: ea595643c81e39d4cb29d50dde1276f0, type: 2}
+  - {fileID: 11400000, guid: 315fafade65dc7c4f86517bdbef51fad, type: 2}

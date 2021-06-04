@@ -10,7 +10,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: A 11
+  m_Name: A11. Cyclops Paradox
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'As you run away from paradoxes you notice a shady Cyclops looking in
+    your way.
+
+    
+
+    You ask yourself:
+
+    
+
+    If a Cyclops closes it''s
+    eye, is it a wink or a blink?
+
+    
+
+    1.It''s a wink.
+
+    2.It''s a blink.
+
+    3.
+    I''m definitely not falling for this one again.(Run)'
+  nextStates:
+  - {fileID: 11400000, guid: 87602ac2e3818834c9250dbafe589585, type: 2}
+  - {fileID: 11400000, guid: 5e6848621f95bf94096839639f6c7805, type: 2}
+  - {fileID: 11400000, guid: 09a68f33e9103c04b97eb73d857f8542, type: 2}

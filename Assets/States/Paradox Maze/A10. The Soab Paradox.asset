@@ -10,7 +10,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: A 10
+  m_Name: A10. The Soab Paradox
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: '
+
+    You are home. You take off your shoes and go wash your hands.
+
+    The
+    soab falls on the floor and you ask yourself:
+
+    
+
+    If a bar of soab falls
+    on the floor will the soab get dirty or will the floor be clean?
+
+    
+
+    1.
+    Soab gets dirty.
+
+    2. Floor will be clean.
+
+    3. Take your sleeping pills
+    and go to sleep. (ENDGAME)'
+  nextStates:
+  - {fileID: 11400000, guid: 09a68f33e9103c04b97eb73d857f8542, type: 2}
+  - {fileID: 11400000, guid: 8a25d1d36e7f31d48a985ebb9c5ef65d, type: 2}
+  - {fileID: 11400000, guid: 7fd1801e7a431544086b2aed544a4a97, type: 2}

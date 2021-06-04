@@ -10,7 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: A 8
+  m_Name: A8. Failure and Success Paradox
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You notice you keep falling for these paradox loops and ask yourself
+    yet again:
+
+    
+
+    If you try to fail and succeed, which have you done?
+
+    
+
+    1.I
+    have succeeded.
+
+    2.I have failed.
+
+    3.The hell with this(run home).'
+  nextStates:
+  - {fileID: 11400000, guid: 315fafade65dc7c4f86517bdbef51fad, type: 2}
+  - {fileID: 11400000, guid: 5e6848621f95bf94096839639f6c7805, type: 2}
+  - {fileID: 11400000, guid: 07bed6745449aad49b9ac56965dccab0, type: 2}
