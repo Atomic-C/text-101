@@ -1,9 +1,14 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class AdventureGame : MonoBehaviour
 {
+    // https://forum.unity.com/threads/how-to-create-object-reference-to-text-mesh-pro-object.505796/
+    // add "using TMPro;" to top of script and use a "TextMeshProUGUI" variable instead of a "Text" one
+
     [SerializeField] Text textComponent;
+    [SerializeField] TextMeshProUGUI textComponentImproved;
     [SerializeField] State startingState;
 
 
@@ -13,6 +18,7 @@ public class AdventureGame : MonoBehaviour
     {
         state = startingState;
         textComponent.text = state.GetStateStory();
+        textComponentImproved.text = state.GetStateStory(); // to use the Text Mesh Pro text fields
     }
 
     // Update is called once per frame
@@ -38,5 +44,6 @@ public class AdventureGame : MonoBehaviour
             state = nextStates[2];
         }
         textComponent.text = state.GetStateStory();
+        textComponentImproved.text = state.GetStateStory();
     }
 }
