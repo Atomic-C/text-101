@@ -10,14 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: Paradox 1
+  m_Name: A1. Confirm play
   m_EditorClassIdentifier: 
-  storyText: 'Does waiting for a waiter, make you a waiter?
+  storyText: 'Welcome to the paradox game.
 
+    Your contradictory adventure, starts
+    here.
 
-    1. Yes it does!
+    
+
+    
+
+    Do you accept the challenge?
+
+    
+
+    1. Yes.
 
     2.
-    No.'
-  nextStates:
-  - {fileID: 11400000, guid: 82a0e6a6cc6a6d74baf9150262319a05, type: 2}
+    No (Exits game).'
+  nextStates: []

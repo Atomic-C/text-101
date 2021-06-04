@@ -10,13 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: Paradox 2
+  m_Name: A3. You are now a waiter
   m_EditorClassIdentifier: 
-  storyText: 'What happens if Pinocchio says "my nose will now grow."?
+  storyText: 'You suddenly find yourself to be a waiter.
 
+    Disturbed, you ask
+    for a break and sit by the sidewalk outside and ask yourself:
 
-    1. Nothing
-    happens.
+    
 
-    2. It grows and gets back to the same size right after.'
+    If
+    everything''s possible, is it possible for something to be impossible?
+
+    
+
+    1.Meh,
+    I''m okay. (End game.)
+
+    2.Fuck this I''m no waiter.'
   nextStates: []
