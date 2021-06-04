@@ -15,15 +15,10 @@ MonoBehaviour:
   storyText: 'Does waiting for a waiter, make you a waiter?
 
 
+    1. Yes it does!
 
-
-
-
-
-    1. Yes it
-    does!
-
-    2. No.'
+    2.
+    No.'
   nextStates:
   - {fileID: 11400000, guid: 82a0e6a6cc6a6d74baf9150262319a05, type: 2}
   - {fileID: 11400000, guid: 9d8b01933084f8c4b9efb8ab8bd224e2, type: 2}

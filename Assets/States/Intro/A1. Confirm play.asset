@@ -18,17 +18,12 @@ MonoBehaviour:
     here.
 
 
-
-
-
     Do you accept the challenge?
-
 
 
     1. Yes.
 
-    2. No (Exits
-    game).'
+    2. No (Exits game).'
   nextStates:
   - {fileID: 11400000, guid: 87602ac2e3818834c9250dbafe589585, type: 2}
   - {fileID: 0}
