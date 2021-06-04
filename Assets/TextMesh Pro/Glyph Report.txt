@@ -1,5 +1,5 @@
-Font: Devinne Swash  Style: Regular
-Point Size: 62   SP/PD Ratio: 8.1%
+Font: Devinne Swash Shadow  Style: Regular
+Point Size: 55   SP/PD Ratio: 9.1%
 
 Characters included: 96/99
 Missing characters: 3

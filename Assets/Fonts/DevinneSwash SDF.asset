@@ -68,9 +68,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
@@ -115,9 +115,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: DevinneSwash SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: 423655700
   material: {fileID: -4365710913142178088}
-  materialHashCode: 0
+  materialHashCode: 339885876
   m_Version: 1.1.0
   m_SourceFontFileGUID: eec81e164e82e5c4d89adf6173e872e3
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: eec81e164e82e5c4d89adf6173e872e3, type: 3}
@@ -1881,697 +1881,689 @@ MonoBehaviour:
   m_UsedGlyphRects:
   - m_X: 0
     m_Y: 0
-    m_Width: 87
-    m_Height: 60
-  - m_X: 87
+    m_Width: 83
+    m_Height: 59
+  - m_X: 83
     m_Y: 0
-    m_Width: 81
-    m_Height: 75
-  - m_X: 0
-    m_Y: 60
-    m_Width: 71
-    m_Height: 55
-  - m_X: 71
-    m_Y: 60
-    m_Width: 15
-    m_Height: 78
-  - m_X: 0
-    m_Y: 115
-    m_Width: 69
+    m_Width: 77
     m_Height: 72
   - m_X: 0
-    m_Y: 187
-    m_Width: 34
-    m_Height: 78
-  - m_X: 0
-    m_Y: 265
-    m_Width: 33
-    m_Height: 78
-  - m_X: 0
-    m_Y: 343
-    m_Width: 23
-    m_Height: 76
-  - m_X: 0
-    m_Y: 419
-    m_Width: 22
-    m_Height: 76
-  - m_X: 0
-    m_Y: 495
-    m_Width: 36
-    m_Height: 16
-  - m_X: 22
-    m_Y: 419
-    m_Width: 68
-    m_Height: 72
-  - m_X: 36
-    m_Y: 491
-    m_Width: 28
-    m_Height: 20
-  - m_X: 64
-    m_Y: 491
-    m_Width: 30
-    m_Height: 18
-  - m_X: 23
-    m_Y: 343
-    m_Width: 49
-    m_Height: 72
-  - m_X: 33
-    m_Y: 265
-    m_Width: 36
-    m_Height: 72
-  - m_X: 34
-    m_Y: 187
-    m_Width: 53
-    m_Height: 71
-  - m_X: 69
-    m_Y: 138
-    m_Width: 30
-    m_Height: 49
-  - m_X: 86
-    m_Y: 75
-    m_Width: 56
-    m_Height: 63
-  - m_X: 69
-    m_Y: 258
-    m_Width: 29
-    m_Height: 71
-  - m_X: 87
-    m_Y: 187
-    m_Width: 39
-    m_Height: 70
-  - m_X: 99
-    m_Y: 138
-    m_Width: 42
-    m_Height: 48
-  - m_X: 72
-    m_Y: 329
-    m_Width: 48
-    m_Height: 69
-  - m_X: 98
-    m_Y: 257
-    m_Width: 44
-    m_Height: 69
-  - m_X: 126
-    m_Y: 186
-    m_Width: 55
-    m_Height: 66
-  - m_X: 141
-    m_Y: 138
-    m_Width: 24
-    m_Height: 48
-  - m_X: 142
-    m_Y: 75
-    m_Width: 59
-    m_Height: 61
-  - m_X: 165
-    m_Y: 136
-    m_Width: 45
-    m_Height: 47
-  - m_X: 72
-    m_Y: 398
-    m_Width: 53
-    m_Height: 15
-  - m_X: 120
-    m_Y: 326
-    m_Width: 61
-    m_Height: 60
-  - m_X: 142
-    m_Y: 252
-    m_Width: 55
-    m_Height: 60
-  - m_X: 181
-    m_Y: 183
-    m_Width: 46
-    m_Height: 60
-  - m_X: 168
-    m_Y: 0
-    m_Width: 46
-    m_Height: 60
-  - m_X: 201
-    m_Y: 60
-    m_Width: 41
-    m_Height: 60
-  - m_X: 214
-    m_Y: 0
-    m_Width: 37
-    m_Height: 60
-  - m_X: 210
-    m_Y: 120
-    m_Width: 64
-    m_Height: 59
-  - m_X: 242
-    m_Y: 60
-    m_Width: 64
-    m_Height: 59
-  - m_X: 251
-    m_Y: 0
-    m_Width: 63
-    m_Height: 59
-  - m_X: 90
-    m_Y: 413
-    m_Width: 63
-    m_Height: 59
-  - m_X: 125
-    m_Y: 386
-    m_Width: 47
-    m_Height: 25
-  - m_X: 94
-    m_Y: 472
-    m_Width: 36
-    m_Height: 34
-  - m_X: 130
-    m_Y: 472
-    m_Width: 34
-    m_Height: 33
-  - m_X: 153
-    m_Y: 411
-    m_Width: 60
-    m_Height: 59
-  - m_X: 172
-    m_Y: 386
-    m_Width: 64
-    m_Height: 24
-  - m_X: 164
-    m_Y: 470
-    m_Width: 25
-    m_Height: 33
-  - m_X: 189
-    m_Y: 470
-    m_Width: 21
-    m_Height: 33
-  - m_X: 210
-    m_Y: 470
-    m_Width: 31
-    m_Height: 31
-  - m_X: 213
-    m_Y: 410
-    m_Width: 59
-    m_Height: 59
-  - m_X: 241
-    m_Y: 469
-    m_Width: 43
-    m_Height: 42
-  - m_X: 181
-    m_Y: 312
-    m_Width: 59
-    m_Height: 59
-  - m_X: 197
-    m_Y: 243
-    m_Width: 55
-    m_Height: 59
-  - m_X: 227
-    m_Y: 179
-    m_Width: 53
-    m_Height: 59
-  - m_X: 274
-    m_Y: 119
-    m_Width: 53
-    m_Height: 59
-  - m_X: 306
     m_Y: 59
-    m_Width: 52
-    m_Height: 59
-  - m_X: 314
+    m_Width: 69
+    m_Height: 54
+  - m_X: 160
     m_Y: 0
-    m_Width: 49
-    m_Height: 59
-  - m_X: 236
-    m_Y: 371
-    m_Width: 24
-    m_Height: 24
-  - m_X: 240
-    m_Y: 302
-    m_Width: 49
-    m_Height: 59
-  - m_X: 260
-    m_Y: 361
-    m_Width: 44
-    m_Height: 47
-  - m_X: 272
-    m_Y: 408
-    m_Width: 49
-    m_Height: 59
-  - m_X: 284
-    m_Y: 467
     m_Width: 66
-    m_Height: 44
-  - m_X: 252
-    m_Y: 238
-    m_Width: 48
-    m_Height: 59
-  - m_X: 280
-    m_Y: 178
-    m_Width: 47
-    m_Height: 59
-  - m_X: 289
-    m_Y: 297
-    m_Width: 45
-    m_Height: 59
-  - m_X: 304
-    m_Y: 356
-    m_Width: 38
-    m_Height: 52
-  - m_X: 321
-    m_Y: 408
-    m_Width: 45
-    m_Height: 59
-  - m_X: 350
-    m_Y: 467
-    m_Width: 50
-    m_Height: 44
-  - m_X: 300
-    m_Y: 237
-    m_Width: 37
-    m_Height: 59
-  - m_X: 334
-    m_Y: 296
-    m_Width: 37
-    m_Height: 59
-  - m_X: 342
-    m_Y: 355
-    m_Width: 46
-    m_Height: 46
-  - m_X: 366
-    m_Y: 401
-    m_Width: 36
-    m_Height: 59
-  - m_X: 400
-    m_Y: 460
-    m_Width: 44
-    m_Height: 45
-  - m_X: 444
+    m_Height: 70
+  - m_X: 226
     m_Y: 0
     m_Width: 65
-    m_Height: 58
-  - m_X: 388
+    m_Height: 70
+  - m_X: 291
     m_Y: 0
-    m_Width: 56
-    m_Height: 58
-  - m_X: 363
+    m_Width: 64
+    m_Height: 45
+  - m_X: 355
     m_Y: 0
-    m_Width: 25
+    m_Width: 63
+    m_Height: 58
+  - m_X: 291
+    m_Y: 45
+    m_Width: 63
     m_Height: 57
-  - m_X: 363
-    m_Y: 57
-    m_Width: 25
-    m_Height: 23
-  - m_X: 444
-    m_Y: 58
+  - m_X: 418
+    m_Y: 0
     m_Width: 62
     m_Height: 58
-  - m_X: 402
+  - m_X: 480
+    m_Y: 0
+    m_Width: 31
+    m_Height: 68
+  - m_X: 354
     m_Y: 58
-    m_Width: 42
-    m_Height: 42
-  - m_X: 358
-    m_Y: 80
-    m_Width: 44
+    m_Width: 62
+    m_Height: 27
+  - m_X: 416
+    m_Y: 58
+    m_Width: 61
+    m_Height: 59
+  - m_X: 477
+    m_Y: 68
+    m_Width: 34
+    m_Height: 22
+  - m_X: 477
+    m_Y: 90
+    m_Width: 33
     m_Height: 58
-  - m_X: 327
-    m_Y: 118
-    m_Width: 30
-    m_Height: 59
-  - m_X: 327
-    m_Y: 177
-    m_Width: 36
-    m_Height: 59
-  - m_X: 337
-    m_Y: 236
-    m_Width: 26
-    m_Height: 59
-  - m_X: 444
-    m_Y: 116
+  - m_X: 354
+    m_Y: 85
+    m_Width: 61
+    m_Height: 58
+  - m_X: 415
+    m_Y: 117
+    m_Width: 61
+    m_Height: 58
+  - m_X: 476
+    m_Y: 148
+    m_Width: 35
+    m_Height: 35
+  - m_X: 160
+    m_Y: 70
+    m_Width: 61
+    m_Height: 57
+  - m_X: 221
+    m_Y: 70
     m_Width: 60
     m_Height: 58
-  - m_X: 388
-    m_Y: 138
-    m_Width: 55
-    m_Height: 57
-  - m_X: 444
-    m_Y: 174
+  - m_X: 281
+    m_Y: 102
     m_Width: 59
     m_Height: 57
-  - m_X: 363
-    m_Y: 231
+  - m_X: 340
+    m_Y: 143
+    m_Width: 59
+    m_Height: 57
+  - m_X: 399
+    m_Y: 175
+    m_Width: 58
+    m_Height: 60
+  - m_X: 457
+    m_Y: 175
+    m_Width: 19
+    m_Height: 74
+  - m_X: 476
+    m_Y: 183
+    m_Width: 33
+    m_Height: 57
+  - m_X: 476
+    m_Y: 240
+    m_Width: 33
+    m_Height: 56
+  - m_X: 69
+    m_Y: 72
     m_Width: 58
     m_Height: 58
-  - m_X: 371
-    m_Y: 289
+  - m_X: 127
+    m_Y: 72
+    m_Width: 33
+    m_Height: 49
+  - m_X: 127
+    m_Y: 121
+    m_Width: 32
+    m_Height: 33
+  - m_X: 159
+    m_Y: 127
     m_Width: 58
     m_Height: 58
-  - m_X: 421
-    m_Y: 231
+  - m_X: 217
+    m_Y: 128
+    m_Width: 58
+    m_Height: 58
+  - m_X: 275
+    m_Y: 159
+    m_Width: 57
+    m_Height: 57
+  - m_X: 332
+    m_Y: 200
+    m_Width: 56
+    m_Height: 57
+  - m_X: 388
+    m_Y: 235
+    m_Width: 55
+    m_Height: 62
+  - m_X: 443
+    m_Y: 249
     m_Width: 30
     m_Height: 58
-  - m_X: 388
+  - m_X: 473
+    m_Y: 296
+    m_Width: 38
+    m_Height: 74
+  - m_X: 0
+    m_Y: 113
+    m_Width: 55
+    m_Height: 60
+  - m_X: 55
+    m_Y: 130
+    m_Width: 54
+    m_Height: 64
+  - m_X: 109
+    m_Y: 154
+    m_Width: 50
+    m_Height: 54
+  - m_X: 0
+    m_Y: 173
+    m_Width: 54
+    m_Height: 58
+  - m_X: 54
+    m_Y: 194
+    m_Width: 54
+    m_Height: 56
+  - m_X: 0
+    m_Y: 231
+    m_Width: 53
+    m_Height: 59
+  - m_X: 159
+    m_Y: 185
+    m_Width: 53
+    m_Height: 57
+  - m_X: 108
+    m_Y: 208
+    m_Width: 50
+    m_Height: 45
+  - m_X: 53
+    m_Y: 250
+    m_Width: 52
+    m_Height: 68
+  - m_X: 0
+    m_Y: 290
+    m_Width: 52
+    m_Height: 57
+  - m_X: 212
+    m_Y: 186
+    m_Width: 52
+    m_Height: 19
+  - m_X: 212
+    m_Y: 205
+    m_Width: 49
+    m_Height: 69
+  - m_X: 158
+    m_Y: 242
+    m_Width: 49
+    m_Height: 67
+  - m_X: 105
+    m_Y: 253
+    m_Width: 49
+    m_Height: 58
+  - m_X: 261
+    m_Y: 216
+    m_Width: 49
+    m_Height: 57
+  - m_X: 310
+    m_Y: 257
+    m_Width: 49
+    m_Height: 57
+  - m_X: 261
+    m_Y: 273
+    m_Width: 49
+    m_Height: 47
+  - m_X: 359
+    m_Y: 257
+    m_Width: 29
+    m_Height: 26
+  - m_X: 359
+    m_Y: 283
+    m_Width: 28
+    m_Height: 56
+  - m_X: 310
+    m_Y: 314
+    m_Width: 49
+    m_Height: 44
+  - m_X: 207
+    m_Y: 274
+    m_Width: 48
+    m_Height: 58
+  - m_X: 154
+    m_Y: 309
+    m_Width: 48
+    m_Height: 58
+  - m_X: 105
+    m_Y: 311
+    m_Width: 48
+    m_Height: 46
+  - m_X: 52
+    m_Y: 318
+    m_Width: 48
+    m_Height: 44
+  - m_X: 0
     m_Y: 347
     m_Width: 47
-    m_Height: 44
-  - m_X: 429
-    m_Y: 289
-    m_Width: 32
-    m_Height: 57
-  - m_X: 461
-    m_Y: 231
-    m_Width: 49
-    m_Height: 55
-  - m_X: 461
-    m_Y: 286
-    m_Width: 49
-    m_Height: 43
-  - m_X: 461
-    m_Y: 329
-    m_Width: 46
-    m_Height: 44
-  - m_X: 444
-    m_Y: 373
-    m_Width: 46
-    m_Height: 43
-  - m_X: 402
-    m_Y: 416
-    m_Width: 44
-    m_Height: 44
-  - m_X: 444
-    m_Y: 460
-    m_Width: 43
-    m_Height: 44
-  - m_X: 446
-    m_Y: 416
-    m_Width: 43
-    m_Height: 43
-  m_FreeGlyphRects:
-  - m_X: 22
-    m_Y: 491
-    m_Width: 14
-    m_Height: 4
-  - m_X: 69
-    m_Y: 115
-    m_Width: 2
-    m_Height: 23
-  - m_X: 86
-    m_Y: 60
-    m_Width: 1
-    m_Height: 15
-  - m_X: 34
-    m_Y: 258
-    m_Width: 35
-    m_Height: 7
-  - m_X: 33
-    m_Y: 337
-    m_Width: 39
-    m_Height: 6
-  - m_X: 69
-    m_Y: 329
-    m_Width: 3
-    m_Height: 14
-  - m_X: 87
-    m_Y: 257
-    m_Width: 11
-    m_Height: 1
-  - m_X: 99
-    m_Y: 186
-    m_Width: 27
-    m_Height: 1
-  - m_X: 142
-    m_Y: 136
-    m_Width: 23
-    m_Height: 2
-  - m_X: 98
-    m_Y: 326
-    m_Width: 22
-    m_Height: 3
-  - m_X: 126
-    m_Y: 252
-    m_Width: 16
-    m_Height: 5
-  - m_X: 165
-    m_Y: 183
-    m_Width: 16
-    m_Height: 3
-  - m_X: 168
-    m_Y: 60
-    m_Width: 33
-    m_Height: 15
-  - m_X: 201
-    m_Y: 120
-    m_Width: 9
-    m_Height: 16
-  - m_X: 23
-    m_Y: 415
-    m_Width: 67
-    m_Height: 4
-  - m_X: 72
-    m_Y: 413
-    m_Width: 18
-    m_Height: 6
-  - m_X: 120
-    m_Y: 386
-    m_Width: 5
-    m_Height: 12
-  - m_X: 90
-    m_Y: 472
-    m_Width: 4
-    m_Height: 19
-  - m_X: 125
-    m_Y: 411
-    m_Width: 28
-    m_Height: 2
-  - m_X: 153
-    m_Y: 470
-    m_Width: 11
-    m_Height: 2
-  - m_X: 172
-    m_Y: 410
-    m_Width: 41
-    m_Height: 1
-  - m_X: 64
-    m_Y: 509
-    m_Width: 177
-    m_Height: 2
-  - m_X: 94
-    m_Y: 506
-    m_Width: 147
-    m_Height: 5
-  - m_X: 130
-    m_Y: 505
-    m_Width: 111
-    m_Height: 6
-  - m_X: 164
-    m_Y: 503
-    m_Width: 77
-    m_Height: 8
-  - m_X: 210
-    m_Y: 501
-    m_Width: 31
-    m_Height: 10
-  - m_X: 213
-    m_Y: 469
-    m_Width: 28
-    m_Height: 1
-  - m_X: 142
-    m_Y: 312
-    m_Width: 39
-    m_Height: 14
-  - m_X: 181
-    m_Y: 243
-    m_Width: 16
-    m_Height: 9
-  - m_X: 210
-    m_Y: 179
-    m_Width: 17
-    m_Height: 4
-  - m_X: 242
-    m_Y: 119
-    m_Width: 32
-    m_Height: 1
-  - m_X: 251
-    m_Y: 59
-    m_Width: 55
-    m_Height: 1
-  - m_X: 181
-    m_Y: 371
-    m_Width: 55
-    m_Height: 15
-  - m_X: 197
-    m_Y: 302
-    m_Width: 43
-    m_Height: 10
-  - m_X: 236
-    m_Y: 395
-    m_Width: 24
-    m_Height: 15
-  - m_X: 240
-    m_Y: 361
-    m_Width: 20
-    m_Height: 10
-  - m_X: 236
-    m_Y: 408
-    m_Width: 36
-    m_Height: 2
-  - m_X: 272
-    m_Y: 467
-    m_Width: 12
-    m_Height: 2
-  - m_X: 227
-    m_Y: 238
-    m_Width: 25
-    m_Height: 5
-  - m_X: 274
-    m_Y: 178
-    m_Width: 6
-    m_Height: 1
-  - m_X: 252
-    m_Y: 297
-    m_Width: 37
-    m_Height: 5
-  - m_X: 289
-    m_Y: 356
-    m_Width: 15
-    m_Height: 5
-  - m_X: 280
-    m_Y: 237
-    m_Width: 20
-    m_Height: 1
-  - m_X: 300
-    m_Y: 296
-    m_Width: 34
-    m_Height: 1
-  - m_X: 334
-    m_Y: 355
-    m_Width: 8
-    m_Height: 1
-  - m_X: 342
-    m_Y: 401
-    m_Width: 24
-    m_Height: 7
-  - m_X: 400
-    m_Y: 505
-    m_Width: 111
-    m_Height: 6
-  - m_X: 366
-    m_Y: 460
-    m_Width: 34
-    m_Height: 7
-  - m_X: 358
-    m_Y: 59
-    m_Width: 5
-    m_Height: 21
-  - m_X: 388
-    m_Y: 58
-    m_Width: 14
-    m_Height: 22
-  - m_X: 306
-    m_Y: 118
-    m_Width: 21
-    m_Height: 1
-  - m_X: 357
-    m_Y: 118
-    m_Width: 1
     m_Height: 59
-  - m_X: 327
-    m_Y: 236
-    m_Width: 10
-    m_Height: 1
-  - m_X: 402
-    m_Y: 100
-    m_Width: 42
-    m_Height: 38
-  - m_X: 357
-    m_Y: 138
-    m_Width: 31
-    m_Height: 39
-  - m_X: 363
-    m_Y: 138
-    m_Width: 25
-    m_Height: 93
-  - m_X: 363
-    m_Y: 195
-    m_Width: 81
-    m_Height: 36
-  - m_X: 337
-    m_Y: 295
-    m_Width: 34
-    m_Height: 1
-  - m_X: 363
-    m_Y: 289
-    m_Width: 8
-    m_Height: 7
-  - m_X: 443
-    m_Y: 100
-    m_Width: 1
-    m_Height: 131
-  - m_X: 371
-    m_Y: 347
-    m_Width: 17
-    m_Height: 8
-  - m_X: 509
-    m_Y: 0
-    m_Width: 2
-    m_Height: 231
-  - m_X: 510
-    m_Y: 0
-    m_Width: 1
-    m_Height: 511
-  - m_X: 506
-    m_Y: 58
-    m_Width: 5
-    m_Height: 173
-  - m_X: 504
-    m_Y: 116
-    m_Width: 7
-    m_Height: 115
-  - m_X: 503
-    m_Y: 174
-    m_Width: 8
-    m_Height: 57
-  - m_X: 451
-    m_Y: 231
-    m_Width: 10
+  - m_X: 100
+    m_Y: 357
+    m_Width: 47
     m_Height: 58
-  - m_X: 429
-    m_Y: 346
-    m_Width: 32
-    m_Height: 1
-  - m_X: 507
-    m_Y: 329
-    m_Width: 4
-    m_Height: 182
-  - m_X: 388
-    m_Y: 391
-    m_Width: 56
-    m_Height: 10
-  - m_X: 490
+  - m_X: 47
+    m_Y: 362
+    m_Width: 47
+    m_Height: 28
+  - m_X: 47
+    m_Y: 390
+    m_Width: 46
+    m_Height: 44
+  - m_X: 0
+    m_Y: 406
+    m_Width: 45
+    m_Height: 59
+  - m_X: 0
+    m_Y: 465
+    m_Width: 45
+    m_Height: 46
+  - m_X: 45
+    m_Y: 434
+    m_Width: 37
+    m_Height: 74
+  - m_X: 82
+    m_Y: 434
+    m_Width: 25
+    m_Height: 73
+  - m_X: 93
+    m_Y: 415
+    m_Width: 38
+    m_Height: 19
+  - m_X: 107
+    m_Y: 434
+    m_Width: 25
+    m_Height: 73
+  - m_X: 255
+    m_Y: 320
+    m_Width: 45
+    m_Height: 58
+  - m_X: 202
+    m_Y: 332
+    m_Width: 45
+    m_Height: 57
+  - m_X: 147
+    m_Y: 367
+    m_Width: 45
+    m_Height: 48
+  - m_X: 387
+    m_Y: 297
+    m_Width: 45
+    m_Height: 46
+  - m_X: 432
+    m_Y: 307
+    m_Width: 40
+    m_Height: 67
+  - m_X: 472
+    m_Y: 370
+    m_Width: 39
+    m_Height: 60
+  - m_X: 359
+    m_Y: 339
+    m_Width: 27
+    m_Height: 34
+  - m_X: 386
+    m_Y: 343
+    m_Width: 45
+    m_Height: 46
+  - m_X: 431
+    m_Y: 374
+    m_Width: 40
+    m_Height: 52
+  - m_X: 132
+    m_Y: 430
+    m_Width: 37
+    m_Height: 69
+  - m_X: 300
+    m_Y: 358
+    m_Width: 45
+    m_Height: 44
+  - m_X: 345
     m_Y: 373
-    m_Width: 21
-    m_Height: 138
-  - m_X: 435
-    m_Y: 346
-    m_Width: 26
+    m_Width: 39
+    m_Height: 58
+  - m_X: 384
+    m_Y: 389
+    m_Width: 44
+    m_Height: 67
+  - m_X: 428
+    m_Y: 426
+    m_Width: 44
+    m_Height: 45
+  - m_X: 472
+    m_Y: 430
+    m_Width: 38
+    m_Height: 58
+  - m_X: 169
+    m_Y: 488
+    m_Width: 30
+    m_Height: 23
+  - m_X: 199
+    m_Y: 471
+    m_Width: 37
+    m_Height: 36
+  - m_X: 169
+    m_Y: 415
+    m_Width: 27
     m_Height: 27
-  - m_X: 402
-    m_Y: 391
+  - m_X: 196
+    m_Y: 431
+    m_Width: 24
+    m_Height: 35
+  - m_X: 196
+    m_Y: 389
+    m_Width: 43
+    m_Height: 42
+  - m_X: 236
+    m_Y: 456
+    m_Width: 26
+    m_Height: 49
+  - m_X: 262
+    m_Y: 378
+    m_Width: 37
+    m_Height: 58
+  - m_X: 299
+    m_Y: 402
+    m_Width: 43
+    m_Height: 48
+  - m_X: 262
+    m_Y: 436
+    m_Width: 37
+    m_Height: 58
+  - m_X: 342
+    m_Y: 431
+    m_Width: 42
+    m_Height: 60
+  - m_X: 299
+    m_Y: 450
+    m_Width: 43
+    m_Height: 42
+  m_FreeGlyphRects:
+  - m_X: 354
+    m_Y: 45
+    m_Width: 1
+    m_Height: 13
+  - m_X: 477
+    m_Y: 58
+    m_Width: 3
+    m_Height: 10
+  - m_X: 415
+    m_Y: 85
+    m_Width: 1
+    m_Height: 32
+  - m_X: 510
+    m_Y: 90
+    m_Width: 1
+    m_Height: 58
+  - m_X: 476
+    m_Y: 117
+    m_Width: 1
+    m_Height: 31
+  - m_X: 281
+    m_Y: 70
+    m_Width: 10
+    m_Height: 32
+  - m_X: 340
+    m_Y: 102
+    m_Width: 14
+    m_Height: 41
+  - m_X: 399
+    m_Y: 143
+    m_Width: 16
+    m_Height: 32
+  - m_X: 69
+    m_Y: 59
+    m_Width: 14
+    m_Height: 13
+  - m_X: 159
+    m_Y: 121
+    m_Width: 1
+    m_Height: 6
+  - m_X: 217
+    m_Y: 127
+    m_Width: 4
+    m_Height: 1
+  - m_X: 275
+    m_Y: 128
+    m_Width: 6
+    m_Height: 31
+  - m_X: 332
+    m_Y: 159
+    m_Width: 8
+    m_Height: 41
+  - m_X: 388
+    m_Y: 200
+    m_Width: 11
+    m_Height: 35
+  - m_X: 443
+    m_Y: 235
+    m_Width: 14
+    m_Height: 14
+  - m_X: 509
+    m_Y: 183
+    m_Width: 2
+    m_Height: 113
+  - m_X: 473
+    m_Y: 249
+    m_Width: 3
+    m_Height: 47
+  - m_X: 55
+    m_Y: 113
+    m_Width: 14
+    m_Height: 17
+  - m_X: 109
+    m_Y: 130
+    m_Width: 18
+    m_Height: 24
+  - m_X: 54
+    m_Y: 173
+    m_Width: 1
+    m_Height: 21
+  - m_X: 108
+    m_Y: 194
+    m_Width: 1
+    m_Height: 14
+  - m_X: 53
+    m_Y: 231
+    m_Width: 1
+    m_Height: 19
+  - m_X: 212
+    m_Y: 185
+    m_Width: 5
+    m_Height: 1
+  - m_X: 158
+    m_Y: 208
+    m_Width: 1
+    m_Height: 34
+  - m_X: 105
+    m_Y: 250
+    m_Width: 3
+    m_Height: 3
+  - m_X: 264
+    m_Y: 186
+    m_Width: 11
+    m_Height: 30
+  - m_X: 261
+    m_Y: 205
+    m_Width: 14
+    m_Height: 11
+  - m_X: 310
+    m_Y: 216
+    m_Width: 22
+    m_Height: 41
+  - m_X: 207
+    m_Y: 242
+    m_Width: 5
+    m_Height: 32
+  - m_X: 154
+    m_Y: 253
+    m_Width: 4
+    m_Height: 56
+  - m_X: 52
+    m_Y: 290
+    m_Width: 1
+    m_Height: 28
+  - m_X: 100
+    m_Y: 318
+    m_Width: 5
+    m_Height: 39
+  - m_X: 47
+    m_Y: 347
+    m_Width: 5
+    m_Height: 15
+  - m_X: 45
+    m_Y: 406
+    m_Width: 2
+    m_Height: 28
+  - m_X: 94
+    m_Y: 362
+    m_Width: 6
+    m_Height: 53
+  - m_X: 93
+    m_Y: 390
+    m_Width: 7
+    m_Height: 25
+  - m_X: 255
+    m_Y: 274
+    m_Width: 6
+    m_Height: 46
+  - m_X: 202
+    m_Y: 309
+    m_Width: 5
+    m_Height: 23
+  - m_X: 153
+    m_Y: 311
+    m_Width: 1
+    m_Height: 56
+  - m_X: 147
+    m_Y: 357
+    m_Width: 7
+    m_Height: 10
+  - m_X: 387
+    m_Y: 283
+    m_Width: 1
+    m_Height: 14
+  - m_X: 432
+    m_Y: 297
+    m_Width: 11
+    m_Height: 10
+  - m_X: 472
+    m_Y: 307
+    m_Width: 1
+    m_Height: 63
+  - m_X: 386
+    m_Y: 339
+    m_Width: 1
+    m_Height: 4
+  - m_X: 431
+    m_Y: 343
+    m_Width: 1
+    m_Height: 31
+  - m_X: 131
+    m_Y: 415
+    m_Width: 1
+    m_Height: 19
+  - m_X: 300
+    m_Y: 320
+    m_Width: 10
+    m_Height: 38
+  - m_X: 345
+    m_Y: 358
+    m_Width: 14
+    m_Height: 15
+  - m_X: 384
+    m_Y: 373
+    m_Width: 2
+    m_Height: 16
+  - m_X: 471
+    m_Y: 374
+    m_Width: 1
+    m_Height: 52
+  - m_X: 428
+    m_Y: 389
+    m_Width: 3
+    m_Height: 37
+  - m_X: 510
+    m_Y: 430
+    m_Width: 1
+    m_Height: 81
+  - m_X: 45
+    m_Y: 508
+    m_Width: 124
+    m_Height: 3
+  - m_X: 82
+    m_Y: 507
+    m_Width: 87
+    m_Height: 4
+  - m_X: 132
+    m_Y: 499
+    m_Width: 37
+    m_Height: 12
+  - m_X: 199
+    m_Y: 507
+    m_Width: 312
+    m_Height: 4
+  - m_X: 131
+    m_Y: 415
+    m_Width: 38
+    m_Height: 15
+  - m_X: 169
+    m_Y: 466
+    m_Width: 30
+    m_Height: 22
+  - m_X: 169
+    m_Y: 442
+    m_Width: 27
+    m_Height: 46
+  - m_X: 192
+    m_Y: 367
+    m_Width: 10
+    m_Height: 22
+  - m_X: 192
+    m_Y: 367
+    m_Width: 4
+    m_Height: 48
+  - m_X: 247
+    m_Y: 332
+    m_Width: 8
+    m_Height: 124
+  - m_X: 236
+    m_Y: 505
+    m_Width: 275
+    m_Height: 6
+  - m_X: 169
+    m_Y: 466
+    m_Width: 67
+    m_Height: 5
+  - m_X: 220
+    m_Y: 431
+    m_Width: 16
+    m_Height: 40
+  - m_X: 247
+    m_Y: 378
+    m_Width: 15
+    m_Height: 78
+  - m_X: 220
+    m_Y: 431
     m_Width: 42
     m_Height: 25
-  - m_X: 435
-    m_Y: 346
-    m_Width: 9
-    m_Height: 70
-  - m_X: 444
-    m_Y: 504
-    m_Width: 67
-    m_Height: 7
-  - m_X: 446
-    m_Y: 459
-    m_Width: 65
-    m_Height: 1
-  - m_X: 487
-    m_Y: 459
-    m_Width: 24
-    m_Height: 52
-  - m_X: 489
-    m_Y: 416
-    m_Width: 22
-    m_Height: 95
+  - m_X: 239
+    m_Y: 389
+    m_Width: 23
+    m_Height: 67
+  - m_X: 299
+    m_Y: 378
+    m_Width: 1
+    m_Height: 24
+  - m_X: 262
+    m_Y: 494
+    m_Width: 249
+    m_Height: 17
+  - m_X: 342
+    m_Y: 402
+    m_Width: 3
+    m_Height: 29
+  - m_X: 384
+    m_Y: 456
+    m_Width: 44
+    m_Height: 55
+  - m_X: 384
+    m_Y: 488
+    m_Width: 127
+    m_Height: 23
+  - m_X: 384
+    m_Y: 471
+    m_Width: 88
+    m_Height: 40
+  - m_X: 299
+    m_Y: 492
+    m_Width: 212
+    m_Height: 19
+  - m_X: 342
+    m_Y: 491
+    m_Width: 169
+    m_Height: 20
   m_fontInfo:
     Name: 
     PointSize: 0
