@@ -10,7 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: X1. Game Over State
+  m_Name: X1. Game Over
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You are now asleep.
+
+    
+
+    Want to try again?
+
+    
+
+    1.
+    Yes.
+
+    2. No.'
+  nextStates:
+  - {fileID: 11400000, guid: 81cd621e183ea8748aedc5ea0a3d159a, type: 2}
+  - {fileID: 11400000, guid: 4e8a464237756c44ab778c6eb19ca669, type: 2}

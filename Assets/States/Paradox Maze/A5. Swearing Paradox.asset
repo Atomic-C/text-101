@@ -10,23 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
-  m_Name: A1. Confirm play
+  m_Name: A5. Swearing Paradox
   m_EditorClassIdentifier: 
-  storyText: 'Welcome to the paradox game.
+  storyText: 'As you notice yourself swearing you ask yourself:
 
-    Your contradictory adventure, starts
-    here.
+    
 
+    If swearing
+    is immature, why is it referred to as "adult language"?
 
+    
 
+    1.Call life''s
+    manager and ask for help.
 
-
-    Do you accept the challenge?
-
-
-
-    1. Yes.
-
-    2. No (Exits
-    game).'
+    2.Run away and get some food.'
   nextStates: []
