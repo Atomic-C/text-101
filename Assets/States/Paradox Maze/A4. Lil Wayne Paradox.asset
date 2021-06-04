@@ -12,20 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
   m_Name: A4. Lil Wayne Paradox
   m_EditorClassIdentifier: 
-  storyText: 'You suddenly wake up realizing you fell asleep while listening to Li''l
-    Wayne. You stare at a Li''l John poster and ask yourself:
-
-    
-
-    If you
-    put Li''l Wayne and Li''l John together, would you have a full-sized John Wayne?
-
-    
-
-    1.Yes.
-
-    2.Fuck
-    this I need help.'
+  storyText: "You suddenly wake up realizing you fell asleep while listening to Li'l
+    Wayne. You stare at a Li'l John poster and ask yourself:\r\n\r\nIf you put Li'l
+    Wayne and Li'l John together, would you have a full-sized John Wayne?\r\n\r1.Yes.\r\n2.Fuck
+    this I need help."
   nextStates:
   - {fileID: 11400000, guid: 82a0e6a6cc6a6d74baf9150262319a05, type: 2}
   - {fileID: 11400000, guid: 7f0a703be53489e42924285a0dc9b884, type: 2}

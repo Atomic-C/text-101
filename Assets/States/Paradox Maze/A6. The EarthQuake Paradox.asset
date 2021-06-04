@@ -12,19 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe7b6cbc186757348a85b311153047b1, type: 3}
   m_Name: A6. The EarthQuake Paradox
   m_EditorClassIdentifier: 
-  storyText: 'Somehow you woke up on Mars.
-
-    
-
-    If there''s an earthquake
-    on Mars, is it still considered an earthquake?
-
-    
-
-    1.It is.
-
-    2.No.
-    (Board Space shuttle and leave.)'
+  storyText: "Somehow you woke up on Mars.\r\n\r\nIf there's an earthquake on Mars,
+    is it still considered an earthquake?\r\n\r1.It is.\r\n2.No. (Board Space shuttle
+    and leave.)"
   nextStates:
   - {fileID: 11400000, guid: ea595643c81e39d4cb29d50dde1276f0, type: 2}
   - {fileID: 11400000, guid: 8a25d1d36e7f31d48a985ebb9c5ef65d, type: 2}
