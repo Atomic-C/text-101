@@ -26,4 +26,4 @@ MonoBehaviour:
     2. No (Exits game).'
   nextStates:
   - {fileID: 11400000, guid: 87602ac2e3818834c9250dbafe589585, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 7fd1801e7a431544086b2aed544a4a97, type: 2}
